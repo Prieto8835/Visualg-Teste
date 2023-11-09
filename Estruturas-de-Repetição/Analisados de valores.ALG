@@ -1,4 +1,4 @@
-Algoritmo "Contador Inteligente"
+Algoritmo "Analisador de Valores"
 // =============================================================
 // Algoritmo para fazer:
 // - Contagem de 5 valores e a soma entre eles;
